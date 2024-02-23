@@ -47,8 +47,8 @@ jobs:
      
       - name: commit
         run: |
-          git config --global user.email zhbjzhql@qq.com
-          git config --global user.name zhbjzhql1
+          git config --global user.email 2654317003@qq.com
+          git config --global user.name jsiptv
           git add .
           git commit -m "update" -a
       - name: Push changes
